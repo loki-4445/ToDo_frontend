@@ -1,0 +1,20 @@
+*{
+    margin: auto;
+   
+}
+
+.input{
+    margin: 10px;
+   
+}
+.box{
+    width: 550px;
+    height: auto;
+    background: rgb(172, 173, 173);
+    margin: auto;
+   
+    text-align: center;
+}
+.inputs{
+    margin-top: 100px;
+}
