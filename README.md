@@ -99,7 +99,11 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License 📜
 This project is licensed under the [MIT License](LICENSE).
+## Output
+   
+   ![ToDo](./todo.png)
 
+   
 ## Contact 📧
 For inquiries or feedback, please reach out:
 - **Developer**: Lokesh Gandham
@@ -107,8 +111,6 @@ For inquiries or feedback, please reach out:
 ```
 
 ---
-1. **Output**
-   
-   ![ToDo](./todo.png)
+
 Let me know if you'd like any further customization!
 
