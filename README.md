@@ -107,5 +107,8 @@ For inquiries or feedback, please reach out:
 ```
 
 ---
-
+1. **Output**
+   
+   ![ToDo](./todo.png)
 Let me know if you'd like any further customization!
+
